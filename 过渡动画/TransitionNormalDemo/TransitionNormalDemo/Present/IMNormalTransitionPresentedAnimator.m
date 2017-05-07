@@ -40,7 +40,9 @@
      
      关于怎么自定义交互式动画 看 王巍 的 demo 。其实也不难。
      
-     可以看官方文档配合王巍的 blog https://onevcat.com/2014/07/ios-ui-unique/ 一起看，这是功能性 API 会用就可以了
+     可以看官方文档配合王巍的 blog https://onevcat.com/2014/07/ios-ui-unique/ 一起看（在 UIPresentationController 模块有 iOS7 中关于自定义过渡的链接），这是功能性 API 会用就可以了
+     
+     关于 iOS8 的一些新特性可以看这个 http://www.cnblogs.com/ChrisYu/p/4663255.html
      
      */
     
